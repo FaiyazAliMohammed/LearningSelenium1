@@ -4,18 +4,76 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76b799a2-c7ba-4c36-8787-cd1adc120cfe" name="Changes" comment="" />
+    <list default="true" id="76b799a2-c7ba-4c36-8787-cd1adc120cfe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Project/Alerts/Selenium25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Project/Alerts/Selenium26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Project/PraticeTestCase/Amazon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Project/PraticeTestCase/Flipkart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Project/PraticeTestCase/SampleTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Project/PraticeTestCase/SnapDeal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Project/PraticeTestCase/bigBasket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Project/PraticeTestCase/vcNewTC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Project/Select/Selenium24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Project/Wait/Selenium22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Project/Wait/Selenium23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Project/PraticeTestCase/Appointment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Project/PraticeTestCase/Appointment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Project/PraticeTestCase/CanadaLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Project/PraticeTestCase/CanadaLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Project/PraticeTestCase/OrangeLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Project/PraticeTestCase/OrangeLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Project/PraticeTestCase/VwoRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Project/PraticeTestCase/VwoRegistration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Project/PraticeTestCase/addToCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Project/PraticeTestCase/addToCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium17.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;FaiyazAliMohammed&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/FaiyazAliMohammed/LearningSelenium1.git&quot;,
+    &quot;accountId&quot;: &quot;5fb1e1a1-ac52-44f2-8c2c-4ee0f398b289&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2h9UNqYZvdk2WHZaD2hdrFm9rk6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -24,12 +82,153 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Selenium01.executor": "Run",
+    "JUnit.AppTest.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.Amazon.executor": "Run",
+    "TestNG.SampleTesting.TC01.executor": "Run",
+    "TestNG.SampleTesting.executor": "Run",
+    "TestNG.Selenium02.executor": "Run",
+    "TestNG.Selenium17.executor": "Run",
+    "TestNG.Selenium19.Ebay.executor": "Run",
+    "TestNG.Selenium19.executor": "Run",
+    "TestNG.Selenium20.Ebay.executor": "Run",
+    "TestNG.Selenium20.executor": "Run",
+    "TestNG.Selenium21.VWO.executor": "Run",
+    "TestNG.Selenium21.executor": "Run",
+    "TestNG.Selenium22.VWO.executor": "Run",
+    "TestNG.Selenium22.executor": "Run",
+    "TestNG.Selenium23.VWO.executor": "Run",
+    "TestNG.Selenium23.executor": "Run",
+    "TestNG.Selenium24.VWO.executor": "Run",
+    "TestNG.Selenium24.executor": "Run",
+    "TestNG.Selenium25.VWO.executor": "Run",
+    "TestNG.Selenium25.executor": "Run",
+    "TestNG.Selenium26.VWO.executor": "Run",
+    "TestNG.Selenium26.executor": "Run",
+    "TestNG.SnapDeal.Snap.executor": "Run",
+    "TestNG.SnapDeal.executor": "Run",
+    "TestNG.VwoRegistration.executor": "Run",
+    "TestNG.vcNewTC.VC01 (1).executor": "Debug",
+    "TestNG.vcNewTC.VC01.executor": "Run",
+    "TestNG.vcNewTC.executor": "Run",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Project.Alerts" />
+      <recent name="Project.Select" />
+      <recent name="Project.Selenium" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Selenium26.VWO">
+    <configuration name="Selenium24.VWO" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSenenium1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Project.Alerts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Project.Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Project.Select.Selenium24" />
+      <option name="METHOD_NAME" value="VWO" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium25" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSenenium1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Project.Alerts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Project.Alerts" />
+      <option name="MAIN_CLASS_NAME" value="Project.Alerts.Selenium25" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium25.VWO" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSenenium1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Project.Alerts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Project.Alerts" />
+      <option name="MAIN_CLASS_NAME" value="Project.Alerts.Selenium25" />
+      <option name="METHOD_NAME" value="VWO" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium26" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSenenium1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Project.Alerts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Project.Alerts" />
+      <option name="MAIN_CLASS_NAME" value="Project.Alerts.Selenium26" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium26.VWO" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSenenium1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Project.Alerts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Project.Alerts" />
+      <option name="MAIN_CLASS_NAME" value="Project.Alerts.Selenium26" />
+      <option name="METHOD_NAME" value="VWO" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Selenium26.VWO" />
+        <item itemvalue="TestNG.Selenium26" />
+        <item itemvalue="TestNG.Selenium25.VWO" />
+        <item itemvalue="TestNG.Selenium25" />
+        <item itemvalue="TestNG.Selenium24.VWO" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,5 +239,31 @@
       <updated>1717005752126</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Project/Selenium/Selenium19.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Project/PraticeTestCase/vcNewTC.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Project/PraticeTestCase/Amazon.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Project/Alerts/Selenium26.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
